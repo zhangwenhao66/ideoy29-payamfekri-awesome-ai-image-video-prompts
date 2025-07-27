@@ -1,0 +1,12 @@
+Get creative Poster for [ .. ] about [ .. ]:
+	without real human,
+	size= [x:x]
+	background= Guernica by Pablo Picasso[color = 'light brown',],
+	(small text at the bottom :
+		[" text .. "],
+		{
+			color = 'black',
+			size=4,
+			Bold
+		}
+	)
