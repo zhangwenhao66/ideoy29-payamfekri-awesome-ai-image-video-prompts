@@ -1,0 +1,25 @@
+open google flow :
+
+عکس محصول را در Google Flow آپلود کنید.
+
+روی گزینه Add to prompt کلیک کنید.
+
+پراپت زیر را وارد کنید :
+Image prompt:
+Ultra-realistic floating 3D product advertisement of PRODUCT  add some elements related to the product, and colors, and details.
+
+تنظیمات Image را روی کیفیت بالا قرار دهید و 4 نسخه تولید کنید 
+
+بهترین خروجی را انتخاب و ذخیره کنید.
+
+همین کار را برای تک‌تک محصولات تکرار کنید.
+
+تولید ویدیو : 
+عکس نهایی محصول اول و عکس نهایی محصول دوم را با هم Add to prompt کنید.
+پرامپت ویدیو را وارد کنید:
+Video prompt :
+Animate the product in the reference image. The first product levitates and begins a dynamic 360-degree rotation. Mid-spin, it seamlessly morphs and transforms into the second product. The transformation is beautifully masked by a slow-motion burst of floating related elements and dynamic particles. Ultra-realistic 3D commercial render, cinematic lighting.
+
+تنظیمات را روی Video بگذارید. 
+مدل را حتماً روی Veo Fast تنظیم کنید.
+کلیک کنید Generate و خروجی را دریافت کنید.
